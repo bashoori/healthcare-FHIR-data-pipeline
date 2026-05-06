@@ -1,1 +1,0 @@
-# healthcare-FHIR-data-pipeline
